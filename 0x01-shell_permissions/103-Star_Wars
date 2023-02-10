@@ -1,2 +1,2 @@
-7#!/bin/bash
+#!/bin/bash
 telnet towel.blinkenlights.nl
